@@ -19,7 +19,7 @@ This is a curated list of resources related to OS and low-level programming in t
 
 ## Driver
 
-- [`virtio-drivers`]([rcore-os/virtio-drivers: VirtIO guest drivers in Rust. (github.com)](https://github.com/rcore-os/virtio-drivers)) VirtIO guest drivers in Rust. For **no_std** environment.
+- [`virtio-drivers`](https://github.com/rcore-os/virtio-drivers) VirtIO guest drivers in Rust. For **no_std** environment.
 
 ## Other Tools
 
