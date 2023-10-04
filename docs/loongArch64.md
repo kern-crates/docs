@@ -17,11 +17,3 @@
 - [ ] 调试相关控制状态寄存器
 
   
-
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/kern-crates/docs"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
