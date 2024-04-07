@@ -75,7 +75,6 @@
 ### 任务列表
 
 
-
 - [x] trap/irq/syscall从axhal拆分
 
 axtrap组件位于mkboot和axsyscall两个层次之间。解决这部分的反向依赖。
